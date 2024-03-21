@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theproducer\\theproducer\\controllers\\senmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|solutionrelative:theproducer\\controllers\\senmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theproducer\\theproducer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|solutionrelative:theproducer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD0F2C7-D9A6-4488-8CFB-12E32A43027A}|..\\TheConsumer\\TheConsumer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theproducer\\theproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|solutionrelative:theproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD0F2C7-D9A6-4488-8CFB-12E32A43027A}|..\\TheConsumer\\TheConsumer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theconsumer\\theconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|c:\\users\\nguye\\documents\\fpt-study\\s8-(spring2024)\\prn-231\\rabbitmq\\theproducer\\theproducer\\theproducer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B981F680-3B56-4451-B61E-668B4B260300}|TheProducer\\TheProducer.csproj|solutionrelative:theproducer\\theproducer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheConsumer.csproj",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheConsumer\\TheConsumer.csproj",
+              "RelativeDocumentMoniker": "..\\TheConsumer\\TheConsumer.csproj",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheConsumer\\TheConsumer.csproj",
+              "RelativeToolTip": "..\\TheConsumer\\TheConsumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T05:34:18.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TheConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheConsumer\\Program.cs",
+              "RelativeToolTip": "..\\TheConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:34:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Controllers\\SenMessageController.cs",
+              "RelativeDocumentMoniker": "TheProducer\\Controllers\\SenMessageController.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Controllers\\SenMessageController.cs",
+              "RelativeToolTip": "TheProducer\\Controllers\\SenMessageController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwFUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:34:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Program.cs",
+              "RelativeDocumentMoniker": "TheProducer\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Program.cs",
+              "RelativeToolTip": "TheProducer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:34:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TheProducer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TheProducer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:20:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheProducer.csproj",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\TheProducer.csproj",
+              "RelativeDocumentMoniker": "TheProducer\\TheProducer.csproj",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\FPT-Study\\S8-(Spring2024)\\PRN-231\\RabbitMQ\\TheProducer\\TheProducer\\TheProducer.csproj",
+              "RelativeToolTip": "TheProducer\\TheProducer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T05:34:18.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
